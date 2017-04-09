@@ -1,0 +1,191 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box; 
+}
+body {
+	background-image: url(../image/background.jpg);
+}
+#container{
+	width: 1350px;
+	height: 4252px;
+}
+#banner{
+	text-align: center;
+	margin-top: 100px;
+}
+#xin{
+	margin-top: 100px;
+	margin-left: 250px;
+	float: left;
+}
+#ru{
+	margin-top:100px;
+    margin-left: 190px;
+    float: left;
+}
+#zheng{
+	margin-top: 100px;
+	margin-left: 190px;
+	float: left;
+}
+#cuc{
+	margin-top: 500px;
+	width: 1350px;
+}
+.cuc{
+	padding: 0;
+	margin: 0;
+}
+#xaoyuan{
+	float: left;
+    margin-left: 250px;
+    margin-top: 200px;
+}
+#one{
+	list-style: none;
+}
+.henggang{
+	margin-top: 40px;
+}
+.weiquan{
+	margin-top: 40px;
+}
+.huodong{
+	margin-top: 20px;
+}
+.wenhua{
+	margin-top: 20px;
+}
+.xiaoge{
+	margin-top: 20px;
+}
+.xiaoli{
+	margin-top: 20px;
+}
+#xinsheng{
+	margin-left: 50px;
+	margin-top: 200px;
+	float: left;
+}
+#two{
+	list-style: none;
+}
+.hengang{
+	margin-top: 40px;
+}
+.kaixue{
+	margin-top: 40px;
+}
+.huoche{
+	margin-top: 20px;
+}
+.zhusu{
+	margin-top: 20px;
+}
+.xiaoyuananquan{
+	margin-top: 20px;
+}
+#shang:after{
+	content:".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+}
+#lianxi{
+	margin-top: 100px;
+	margin-left: 250px;
+	float: left;
+}
+#three{
+	list-style: none;
+}
+.hengang{
+	margin-top: 40px;
+}
+.erweima{
+	margin-top: 40px;
+}
+.xueshenghui{
+	margin-top: 20px;
+}
+#yule{
+	margin-left: 40px;
+	margin-top: 100px;
+    float: left;
+}
+#four{
+	list-style: none;
+}
+.hengang{
+	margin-top: 40px;
+}
+.xiaoyuanyule{
+	margin-top: 40px;
+}
+.xiaowaiyule{
+	margin-top: 20px;
+}
+.gouwuzixun{
+	margin-top: 20px;
+}
+.beijingtese{
+	margin-top: 20px;
+}
+.xiaoneijizhoubian{
+	margin-top: 20px;
+}
+#richang{
+	margin-left: 50px;
+	margin-top: 100px;
+	float: left;
+}
+#five{
+	list-style: none;
+}
+.hengang{
+	margin-top: 40px;
+}
+.xuexiaogaikuang{
+	margin-top: 40px;
+}
+.bianminzixun{
+	margin-top: 20px;
+}
+.xiaoneihuangye{
+	margin-top: 20px;
+}
+.jiaotongxinxi1{
+	margin-top: 20px;
+}
+.jiaotongxinxi2{
+	margin-top: 20px;
+}
+#tiwen{
+	margin-top: 800px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
